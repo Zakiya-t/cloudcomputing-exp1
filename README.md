@@ -410,7 +410,7 @@ The recorded results show that the Type-2 configuration performed better for the
 
 ## 5.3 Performance Graph
 
-![Type-1 vs Type-2 Performance Comparison](results/comparison/type1_vs_type2_cpu.png)
+![Type-1 vs Type-2 Performance Comparison](docs/hypervisor_unified_comparison_final.png)
 
 The graph provides a visual comparison of the measured CPU benchmark performance between the two hypervisor environments.
 
